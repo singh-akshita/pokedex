@@ -1,0 +1,8 @@
+.list {
+  opacity: 0.9;
+  background-color: rgb(11, 11, 11); /* black background color */
+  color: rgba(242, 244, 241, 0.907);
+  display: block; /* Make the links appear below each other */
+  padding: 12px; /* Add some padding */
+  text-decoration: none; /* Remove underline from links */
+}
